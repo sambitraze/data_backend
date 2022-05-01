@@ -5,7 +5,7 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "start": "ndoe app.js"
+    "start": "node app.js"
   },
   "repository": {
     "type": "git",
